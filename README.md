@@ -15,7 +15,7 @@ Data Science Portfolio
    * H2O AI packeage for Advanced Ml and Deep Learning packages
    * Azure-ML
 
-![](https://user-images.githubusercontent.com/48637798/148803665-9d02b5a7-5a2d-4797-8d02-5221164b6278.png)
+![](https://user-images.githubusercontent.com/48637798/148803726-5574ccc2-bcd4-42d3-addf-8e09256e9c93.png)
 
 ## [Project 2: New Jersey Community FoodBank Analysis: Project Overview](https://github.com/dcw8161/New-Jersey-Community-FoodBank-Data-Analysis)
 
