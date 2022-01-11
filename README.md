@@ -33,7 +33,7 @@ Data Science Portfolio
 
 ![](https://user-images.githubusercontent.com/48637798/148815382-ee5d2e9a-d001-4edf-bf61-18477c0d420c.png)
 
-## Project 3: Texas Highschool Performance: Project Overview
+## [Project 3: Texas Highschool Performance: Project Overview](https://github.com/dcw8161/Texas-High-School-Data-Analysis)
 
 * Built a regression model to predict the performance of the Texas Highschools as a guide to get an ideal about school performace for future years
 * Visualized the data using Tableau and SweetViz for analysis process
