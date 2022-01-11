@@ -15,7 +15,7 @@ Data Science Portfolio
    * H2O AI packeage for Advanced Ml and Deep Learning packages
    * Azure-ML
 
-## Project 2: New Jersey Community Food Bank Analysis: Project Overview
+## Project 2: New Jersey Community FoodBank Analysis: Project Overview
 
 * Created the regression model that predict the poverty rate which guides the organization to allocate the limited resoiurces more efficiently
 * Visualized the data using Tableau and SweetViz for analysis process
