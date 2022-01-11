@@ -5,7 +5,7 @@ Data Science Portfolio
 
 * Created the classification model that estimate the Redcross donor indicator that guide the client to allocate their limited resources more efficiently by contacting the most positive prospects
 * Visualized the data using Tableau and SweetViz for analysis process
-* Feautre engineered by
+* Feautre engineering by
    * Feature scaling for continuous variables: Normalization method (zscore) was used in PyCaret 
    * Encoding for categorical variables: Encoding was done by PyCaret
    * Simple imputation was used in PyCaret set up
@@ -21,7 +21,7 @@ Data Science Portfolio
 
 * Created the regression model that predict the poverty rate which guides the organization to allocate the limited resoiurces more efficiently
 * Visualized the data using Tableau and SweetViz for analysis process
-* Feautre engineered by
+* Feature engineering by
    * Feature scaling for continuous variables:  Normalization method (zscore) was used in PyCaret 
    * Encoding for categorical variables: Encoding was done by PyCaret
    * Simple imputation was used in PyCaret set up
@@ -32,3 +32,22 @@ Data Science Portfolio
    * Azure-ML
 
 ![](https://user-images.githubusercontent.com/48637798/148815382-ee5d2e9a-d001-4edf-bf61-18477c0d420c.png)
+
+## Project 3: Texas Highschool Performance: Project Overview
+
+* Built a regression model to predict the performance of the Texas Highschools as a guide to get an ideal about school performace for future years
+* Visualized the data using Tableau and SweetViz for analysis process
+* Feature engineering by
+    * Feature scaling for continuous variables:  Min-Max Scaling was performed for the continuous variables
+    * Encoding for categorical variables: Categorical variables were encoded using One-Hot encoding
+    * New feature, Consecutive_G, was created by summing up PrevFYGiving, PrevFY1Giving, PrevFY2Giving, PrevFY3Giving, PrevFY4Giving, and CurrFYGiving by considering visualizations
+    * Outliers were calculated using the percentile method
+    * Anomalies were found using the PyCaret Anomaly detection
+* Analyzed using different methods,
+   * Auto ML with PyCaret
+   * H2O AI packeage for Advanced Ml and Deep Learning packages
+   * Azure-ML
+
+
+
+
