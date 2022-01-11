@@ -1,2 +1,2 @@
-# Darshika_Portfolio
+# Darshika Keerthisinghe Portfolio
 Data Science Portfolio
