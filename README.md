@@ -3,12 +3,12 @@ Data Science Portfolio
 
 ## [Project 1: Redcross Donor Analysis: Project Overview](https://github.com/dcw8161/Redcross-Donor-Analysis)
 
-* Created the classification model that estimate the Redcross donor indicator that guide the client to allocate their limited resources more efficiently by contacting the most positive prospects
+* Created the classification model that estimates the Redcross donor indicator that guide the client to allocate their limited resources more efficiently by contacting the most positive prospects
 * Visualized the data using Tableau and SweetViz for analysis process
 * Feautre engineering by
    * Feature scaling for continuous variables: Normalization method (zscore) was used in PyCaret 
    * Encoding for categorical variables: Encoding was done by PyCaret
-   * Simple imputation was used in PyCaret set up
+   * Simple imputation was used in PyCaret setup
    * Anomalies were found using the PyCaret Anomaly detection.
 * Analyzed using different methods,
    * Auto ML with PyCaret
@@ -24,7 +24,7 @@ Data Science Portfolio
 * Feature engineering by
    * Feature scaling for continuous variables:  Normalization method (zscore) was used in PyCaret 
    * Encoding for categorical variables: Encoding was done by PyCaret
-   * Simple imputation was used in PyCaret set up
+   * Simple imputation was used in PyCaret setup
    * Anomalies were found using the PyCaret Anomaly detection.
 * Analyzed using different methods,
    * Auto ML with PyCaret
@@ -35,7 +35,7 @@ Data Science Portfolio
 
 ## [Project 3: Texas Highschool Performance: Project Overview](https://github.com/dcw8161/Texas-High-School-Data-Analysis)
 
-* Built a regression model to predict the performance of the Texas Highschools as a guide to get an ideal about school performace for future years
+* Built a regression model to predicts the performance of the Texas Highschools as a guide to get an ideal about school performace for future years
 * Visualized the data using Tableau and SweetViz for analysis process
 * Feature engineering by
     * Feature scaling for continuous variables:  Min-Max Scaling was performed for the continuous variables
