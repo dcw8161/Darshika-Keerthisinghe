@@ -69,4 +69,4 @@ Data Science Portfolio
 * Used the cluster which has maximum number of data points from cluster analysis and built the regression model for that cluster
 * Compared accuracies and cluster analysis increases the accuracy of the regression model
 
-![]()
+![](https://github.com/dcw8161/Darshika-Keerthisinghe/blob/main/Images/Screen%20Shot%202022-01-30%20at%2010.52.19%20PM.png)
