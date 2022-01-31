@@ -68,3 +68,5 @@ Data Science Portfolio
 * Built the regession model for the entier dataset 
 * Used the cluster which has maximum number of data points from cluster analysis and built the regression model for that cluster
 * Compared accuracies and cluster analysis increases the accuracy of the regression model
+
+![]()
