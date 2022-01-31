@@ -53,4 +53,18 @@ Data Science Portfolio
 
 ## [Project 4: Cluster Analysis for Zillow Tarrant County Dataset: Project Overview](https://dcw8161.github.io/Cluster-analysis-Zillow-Tarrant-County/)
 
-
+* Performed cluster analyzing for the Zillow Tarrant Count Dataset eventually to predict the real estate price 
+* Visualized the data using Tableau and SweetViz for analysis process
+* Feautre engineering by
+   * Feature scaling for continuous variables: Normalization method (zscore) was used in PyCaret 
+   * Encoding for categorical variables: Encoding was done by PyCaret
+   * Simple imputation was used in PyCaret setup
+   * Anomalies were found using the PyCaret Anomaly detection.
+* Analyzed using different methods,
+   * Auto ML with PyCaret
+   * H2O AI packeage for Advanced Ml and Deep Learning packages
+* Performed cluster analysis using PyCaret kmeans model
+* Used elbow method to find the k value and elbow was found at k = 5
+* Built the regession model for the entier dataset 
+* Used the cluster which has maximum number of data points from cluster analysis and built the regression model for that cluster
+* Compared accuracies and cluster analysis increases the accuracy of the regression model
