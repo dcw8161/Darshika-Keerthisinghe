@@ -59,7 +59,7 @@ Data Science Portfolio
    * Feature scaling for continuous variables: Normalization method (zscore) was used in PyCaret 
    * Encoding for categorical variables: Encoding was done by PyCaret
    * Simple imputation was used in PyCaret setup
-   * Anomalies were found using the PyCaret Anomaly detection.
+   * Anomalies were detected using the PyCaret Anomaly detection.
 * Analyzed using different methods,
    * Auto ML with PyCaret
    * H2O AI packeage for Advanced Ml and Deep Learning packages
