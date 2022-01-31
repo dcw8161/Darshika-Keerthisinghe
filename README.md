@@ -53,7 +53,7 @@ Data Science Portfolio
 
 ## [Project 4: Cluster Analysis for Zillow Tarrant County Dataset: Project Overview](https://dcw8161.github.io/Cluster-analysis-Zillow-Tarrant-County/)
 
-* Performed cluster analyzing for the Zillow Tarrant Count Dataset eventually to predict the real estate price 
+* Performed cluster analyzing for the Zillow Tarrant County Dataset eventually to predict the real estate price 
 * Visualized the data using Tableau and SweetViz for analysis process
 * Feautre engineering by
    * Feature scaling for continuous variables: Normalization method (zscore) was used in PyCaret 
@@ -67,6 +67,6 @@ Data Science Portfolio
 * Used elbow method to find the k value and elbow was found at k = 5
 * Built the regession model for the entier dataset 
 * Used the cluster which has maximum number of data points from cluster analysis and built the regression model for that cluster
-* Compared accuracies and cluster analysis increases the accuracy of the regression model
+* Compared accuracies and found that cluster analysis increases the accuracy of the regression model
 
 ![](https://github.com/dcw8161/Darshika-Keerthisinghe/blob/main/Images/Screen%20Shot%202022-01-30%20at%2010.49.03%20PM.png)
