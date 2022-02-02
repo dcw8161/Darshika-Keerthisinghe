@@ -65,7 +65,7 @@ Data Science Portfolio
    * H2O AI packeage for Advanced Ml and Deep Learning packages
 * Performed cluster analysis using PyCaret kmeans model
 * Used elbow method to find the k value and elbow was found at k = 5
-* Built the regession model for the entier dataset 
+* Built the regession model for the entire dataset 
 * Used the cluster which has maximum number of data points from cluster analysis and built the regression model for that cluster
 * Compared accuracies and found that cluster analysis increases the accuracy of the regression model
 
