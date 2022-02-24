@@ -1,7 +1,7 @@
 # Darshika Keerthisinghe Portfolio
 Data Science Portfolio
 
-## [Project 1: Redcross Donor Analysis: Project Overview](https://github.com/dcw8161/Redcross-Donor-Analysis)
+## [Project 1: Redcross Donor Analysis Using Python, R and Azure-ML: Project Overview](https://github.com/dcw8161/Redcross-Donor-Analysis)
 
 * Created the classification model that estimates the Redcross donor indicator that guide the client to allocate their limited resources more efficiently by contacting the most positive prospects
 * Visualized the data using Tableau and SweetViz for analysis process
