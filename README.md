@@ -19,7 +19,7 @@ Data Science Portfolio
 
 ## [Project 2: New Jersey Community FoodBank Analysis: Project Overview](https://github.com/dcw8161/New-Jersey-Community-FoodBank-Data-Analysis)
 
-* Created the regression model that predict the poverty rate which guides the organization to allocate the limited resoiurces more efficiently
+* Created the regression model that predict the poverty rate which guides the organization to allocate the limited resources more efficiently
 * Visualized the data using Tableau and SweetViz for analysis process
 * Feature engineering by
    * Feature scaling for continuous variables:  Normalization method (zscore) was used in PyCaret 
